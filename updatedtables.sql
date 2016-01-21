@@ -55,7 +55,7 @@ CREATE INDEX log_log_id_index ON userTables.log (username);
 
 CREATE TABLE userTables.userComments (
 	username 	VARCHAR(30),
-	userComment		VARCHAR(250), 
+	userComment	   VARCHAR(250), 
 	section   	VARCHAR(250),
 	log_date 	TIMESTAMP, -- NOT NULL DEFAULT CURRENT_TIMESTAMP,
 	action 		VARCHAR(50) NOT NULL,
