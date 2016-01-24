@@ -11,7 +11,7 @@ $dbusername = constant("DB_USER"); // Mysql username
 $dbpassword = constant("DB_PASS"); // Mysql password 
 $db_name = constant("DB_NAME"); // Database name 
 
-print('Information: ' . $dbhost.":".$dbport, $dbusername, $dbpassword . '');
+echo('Information: ' . $dbhost.":".$dbport, $dbusername, $dbpassword . '');
 
 $connection = mysql_connect($dbhost.":".$dbport, $dbusername, $dbpassword);
 
