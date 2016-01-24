@@ -18,7 +18,7 @@ echo("host" . $dbusername . "");
 echo("host" . $dbpassword . "");
 echo("host" . $db_name . "");
 
-$conn_string = "host=".$dbhost." port=".$dbport." dbname=".$dbname." user=".$dbuser." password=".$dbpassword."";
+$conn_string = "host=127.8.105.130 port=5432 dbname=dragonnest3 user=adminvrcs8s8 password=nYFcTi5Y882x";
 $dbconn4 = pg_connect($conn_string);
 	if(!$dbconn4) 
 	{
