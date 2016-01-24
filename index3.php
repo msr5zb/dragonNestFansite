@@ -12,6 +12,12 @@ $dbpassword = constant("DB_PASS"); // Mysql password
 $db_name = constant("DB_NAME"); // Database name 
 
 echo("hello");
+echo("host" . $dbhost . "");
+echo("host" . $dbport . "");
+echo("host" . $dbusername . "");
+echo("host" . $dbpassword . "");
+echo("host" . $db_name . "");
+
 ?>
 
 <!DOCTYPE html>
