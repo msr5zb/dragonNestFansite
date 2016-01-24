@@ -1,8 +1,8 @@
 <?php
-define('DB_HOST', getenv('OPENSHIFT_MYSQL_DB_HOST'));
-define('DB_PORT', getenv('OPENSHIFT_MYSQL_DB_PORT'));
-define('DB_USER', getenv('OPENSHIFT_MYSQL_DB_USERNAME'));
-define('DB_PASS', getenv('OPENSHIFT_MYSQL_DB_PASSWORD'));
+define('DB_HOST', getenv('OPENSHIFT_POSTGRESQL_DB_HOST'));
+define('DB_PORT', getenv('OPENSHIFT_POSTGRESQL_DB_PORT'));
+define('DB_USER', getenv('OPENSHIFT_POSTGRESQL_DB_USERNAME'));
+define('DB_PASS', getenv('OPENSHIFT_POSTGRESQL_DB_PASSWORD'));
 define('DB_NAME', getenv('OPENSHIFT_GEAR_NAME'));
 
 $dbhost = constant("DB_HOST"); // Host name 
@@ -11,18 +11,21 @@ $dbusername = constant("DB_USER"); // Mysql username
 $dbpassword = constant("DB_PASS"); // Mysql password 
 $db_name = constant("DB_NAME"); // Database name 
 
-echo('Information: ' . $dbhost.":".$dbport, $dbusername, $dbpassword . '');
+echo("hello");
+echo("host" . $dbhost . "");
+echo("host" . $dbport . "");
+echo("host" . $dbusername . "");
+echo("host" . $dbpassword . "");
+echo("host" . $db_name . "");
 
-$connection = mysql_connect($dbhost.":".$dbport, $dbusername, $dbpassword);
-
-if(!$connection){
-    echo "Could not connect to database";
-}else{
-    echo "Connect to database!!!!";
-}
-
-//$dbconnection = mysql_select_db($db_name);
-
+$conn_string = "host=".$dbhost." port=".$dbport." dbname=".$dbname." user=".$dbuser." password=".$dbpassword."";
+$dbconn4 = pg_connect($conn_string);
+	if(!$dbconn4) 
+	{
+		echo "<p>Failed to connect to DB</p>\n";
+	}else{
+        echo"Holy poop you did it !!!";
+    }
 
 ?>
 
