@@ -1,8 +1,8 @@
 <?php
 
 	//Connect To Database
-    $conn_string = "host=localhost port=5432 dbname=dragonnest user=adminxaycqqp password=3s3vsp2TR2Vr";
-	$dbconn = pg_connect($conn_string)or die('Could not connect: ' . pg_last_error());
+    $conn_string = "host=localhost port=3306 dbname=dragonnest user=adminxaycqqp password=3s3vsp2TR2Vr";
+	$dbconn = pg_connect($conn_string)or die('Could not connect Sorry: ' . pg_last_error());
 	
 if(!$dbconn) 
 	{
