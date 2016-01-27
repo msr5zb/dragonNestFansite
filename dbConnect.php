@@ -2,7 +2,7 @@
 function connectDB() {  
     //Connect To Database
     include("secure/database.php");
-    $dbconn = pg_connect(HOST." ".DBNAME." ".USERNAME." ".PASSWORD)or die('Could not connect: ' . pg_last_error());
+    $dbconn = pg_connect(HOST." ".PORT." ".DBNAME." ".USERNAME." ".PASSWORD)or die('Could not connect: ' . pg_last_error());
     if(!$dbconn) 
     {
         echo "<p>Failed to connect to DB</p>\n";

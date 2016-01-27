@@ -1,4 +1,6 @@
 <?php
+
+/*
 define('DB_HOST', getenv('OPENSHIFT_POSTGRESQL_DB_HOST'));
 define('DB_PORT', getenv('OPENSHIFT_POSTGRESQL_DB_PORT'));
 define('DB_USER', getenv('OPENSHIFT_POSTGRESQL_DB_USERNAME'));
@@ -11,12 +13,12 @@ $dbusername = constant("DB_USER"); // Mysql username
 $dbpassword = constant("DB_PASS"); // Mysql password 
 $db_name = constant("DB_NAME"); // Database name 
 
-echo("hello");
 echo("host" . $dbhost . "");
-echo("host" . $dbport . "");
-echo("host" . $dbusername . "");
-echo("host" . $dbpassword . "");
-echo("host" . $db_name . "");
+echo("port" . $dbport . "");
+echo("user" . $dbusername . "");
+echo("password" . $dbpassword . "");
+echo("dbname" . $db_name . "");
+*/
 
 $conn_string = "host=127.8.105.130 port=5432 dbname=dragonnest3 user=adminvrcs8s8 password=nYFcTi5Y882x";
 $dbconn4 = pg_connect($conn_string);
@@ -26,6 +28,8 @@ $dbconn4 = pg_connect($conn_string);
 	}else{
         echo"Holy poop you did it !!!";
     }
+    
+    
 
 ?>
 
