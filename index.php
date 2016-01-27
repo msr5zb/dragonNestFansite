@@ -9,10 +9,12 @@
 	}
 
 	//Connect To Database
-    include("dbConnect.php");
-    secureMe();
-    $dbconn = null;
-    $dbconn = connectDB($dbconn);		
+	include("secure/database.php");
+	$dbconn = pg_connect(HOST." ".DBNAME." ".USERNAME." ".PASSWORD)or die('Could not connect: ' . pg_last_error());
+	if(!$dbconn) 
+	{
+		echo "<p>Failed to connect to DB</p>\n";
+	}	
 ?>
 
 <!DOCTYPE html>
@@ -97,6 +99,5 @@
             &copy; 2015 Michael Rallo - SaintSaves <br />
             </div>
         </div>
-        <?php pg_close($dbconn); ?>
 	</body>
 </html>
