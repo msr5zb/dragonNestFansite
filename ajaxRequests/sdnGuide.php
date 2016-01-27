@@ -24,7 +24,7 @@
 <br>
 <b><span style="color:red">First Map: Phase 1 </span></b><br>
 <br>
-<iframe title="YouTube video player" width="480" height="390" src="http://www.youtube.com/embed/veDlWEpip4E" frameborder="0" allowfullscreen=""></iframe> <br>
+<iframe title="YouTube video player" width="480" height="390" src="https://www.youtube.com/embed/veDlWEpip4E" frameborder="0" allowfullscreen=""></iframe> <br>
 <br>
 <span style="color:blue"><b>HP x 20</b></span><br>
 <br>
@@ -49,10 +49,10 @@ Before going into the second map, cast a highland on everyone. Miracle hand shou
 <b><span style="color:red">Second Map: Phase 2 - Cannon Phase</span></b><br>
 <br>
 Cannon View<br>
-<iframe title="YouTube video player" width="480" height="390" src="http://www.youtube.com/embed/9zcAZP3-MWY" frameborder="0" allowfullscreen=""></iframe> <br>
+<iframe title="YouTube video player" width="480" height="390" src="https://www.youtube.com/embed/9zcAZP3-MWY" frameborder="0" allowfullscreen=""></iframe> <br>
 <br>
 Rear View<br>
-<iframe title="YouTube video player" width="480" height="390" src="http://www.youtube.com/embed/vx5CrzqpPpc" frameborder="0" allowfullscreen=""></iframe> <br>
+<iframe title="YouTube video player" width="480" height="390" src="https://www.youtube.com/embed/vx5CrzqpPpc" frameborder="0" allowfullscreen=""></iframe> <br>
 <br>
 <span style="color:blue"><b>HP x 18.15</b></span><br>
 <br>
@@ -92,7 +92,7 @@ NOTE #2: After it stop glowing red, <b>DO NOT run back to the cannon NO MATTER w
 <br>
 <b><span style="color:red">Phase 3 </span></b><br>
 <br>
-<iframe title="YouTube video player" width="480" height="390" src="http://www.youtube.com/embed/HTkfB-cVeDs" frameborder="0" allowfullscreen=""></iframe> <br>
+<iframe title="YouTube video player" width="480" height="390" src="https://www.youtube.com/embed/HTkfB-cVeDs" frameborder="0" allowfullscreen=""></iframe> <br>
 <br>
 Main-T stand near the edge of the map where the cannons previously were and start provoking the dragon. Sub-T stand beside him, roughly one cannon distance away. The other 6 party members should be divided into 2 sub-groups each at one side of the dragon. <br>
 <br>
@@ -171,7 +171,7 @@ Certain classes can summon sacrificial target to be frozen by ice age and thus p
 <br>
 <span style="color:red"><b>Phase 4 </b></span><br>
 <br>
-<iframe title="YouTube video player" width="480" height="390" src="http://www.youtube.com/embed/6NQ9L91-1LM" frameborder="0" allowfullscreen=""></iframe> <br>
+<iframe title="YouTube video player" width="480" height="390" src="https://www.youtube.com/embed/6NQ9L91-1LM" frameborder="0" allowfullscreen=""></iframe> <br>
 <br>
 <span style="color:blue"><b>HP x 9.25</b></span><br>
 When the dragon flies, there are two possibilities: ice rain( purple bomb) or dive with breath attack. <br>
@@ -202,7 +202,7 @@ The 3-combo: <b>Ice flake &gt; frontal breath &gt; dive </b>will always be cast 
 It is advised that, each ground, either miracle hand or devastating howl should be cast at the gathering point at the tail tip. When moving towards the tail tip, beware not to get too close to the side of the dragon. Try to move along the edge of the map, to be safe.<br>
 <br>
 <br>
-<iframe title="YouTube video player" width="480" height="390" src="http://www.youtube.com/embed/fZeBg65hRNg" frameborder="0" allowfullscreen=""></iframe> <br>
+<iframe title="YouTube video player" width="480" height="390" src="https://www.youtube.com/embed/fZeBg65hRNg" frameborder="0" allowfullscreen=""></iframe> <br>
 <br>
 <br>
 This is the most challenging phase of the whole dragon battle because the dragon will try to trick you with some false signals. <br>
@@ -212,7 +212,7 @@ Normally, eye is followed by ice flakes. The default action after seeing eye on 
 The key to solve this is to differentiate the casting animation between ice rain and ice flakes. Observe what he do after he flies.<br>
 <br>
 See this video to check out the casting animation :<br>
-<iframe title="YouTube video player" width="480" height="390" src="http://www.youtube.com/embed/OKuroSMVYWE" frameborder="0" allowfullscreen=""></iframe> <br>
+<iframe title="YouTube video player" width="480" height="390" src="https://www.youtube.com/embed/OKuroSMVYWE" frameborder="0" allowfullscreen=""></iframe> <br>
 <br>
 Video above - first part: <b>Direct Rain</b><br>
 - He flied up and <b>open his arm wide</b> directly (with <b>NO</b> dark smoke at his claw). Rain will drop right away.<br>
@@ -243,7 +243,7 @@ For flakes, his attack animation are described as follows:<br>
 <br>
 <span style="color:red"><b>Phase 5 - "Pig-Head Mode"</b></span><br>
 <br>
-<iframe title="YouTube video player" width="480" height="390" src="http://www.youtube.com/embed/U-Jioth9ZK8" frameborder="0" allowfullscreen=""></iframe> <br>
+<iframe title="YouTube video player" width="480" height="390" src="https://www.youtube.com/embed/U-Jioth9ZK8" frameborder="0" allowfullscreen=""></iframe> <br>
 <br>
 <span style="color:blue"><b>HP x 4.25</b></span><br>
 At this last phase, when Serpenta is airborne, it will <b>DEFINITELY cast the 3 combo</b>. So simply move the overlap spot without even looking at him. <br>

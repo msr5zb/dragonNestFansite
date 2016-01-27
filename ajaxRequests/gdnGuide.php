@@ -24,13 +24,13 @@
 <br />
 <font size="3"><b><span style="color:#6600cc"><u>Phase 1:</u></span></b><br />
 <br />
-<iframe title="YouTube video player" width="480" height="390" src="http://www.youtube.com/embed/ETrSBy_fmZg" frameborder="0" allowfullscreen></iframe> <br />
+<iframe title="YouTube video player" width="480" height="390" src="https://www.youtube.com/embed/ETrSBy_fmZg" frameborder="0" allowfullscreen></iframe> <br />
 <br />
 </font><br />
 <br />
 After defeating the human form of Kalahan, and after the cutscene, everyone should move towards the black point as shown in the figure below, which is a safe spot for most of the dragon's attack.<br />
 <br />
-<img class="scrollLoading" href="http://img9.mmo.mmo4arab.com/newforum/upload//2012/04/10/1334050748844.png"> <br />
+<img class="scrollLoading" href="https://img9.mmo.mmo4arab.com/newforum/upload//2012/04/10/1334050748844.png"> <br />
 <br />
 <br />
 <b><span style="color:#6600cc">HPx20:</span></b><br />
@@ -73,7 +73,7 @@ However, most party normally ignore this totem. <br />
 <br />
 <b><font size="3"><span style="color:#6600cc"><u>Phase 2</u></span></font></b><br />
 <br />
-<img class="scrollLoading" href="http://img9.mmo.mmo4arab.com/newforum/upload//2012/04/10/1334051874938.png"> <br />
+<img class="scrollLoading" href="https://img9.mmo.mmo4arab.com/newforum/upload//2012/04/10/1334051874938.png"> <br />
 <br />
 After the HP reach x17.25, the dragon will break the wall and your party members <b>have to run to the Phase 2 Chamber B</b>, as shown in the picture above. Do so quickly or be killed by the dragon. <b>DO NOT STOP at Chamber A</b> or be killed. Speed-buffer helps. <br />
 <br />
@@ -86,10 +86,10 @@ After that, the party members will be teleported to a large area in phase 3 of t
 <br />
 <font size="4"><span style="color:#6600cc"><b><u>Phase 3:</u></b></span></font><br />
 <br />
-<iframe title="YouTube video player" width="480" height="390" src="http://www.youtube.com/embed/fzARkDCJjwo" frameborder="0" allowfullscreen></iframe> <br />
+<iframe title="YouTube video player" width="480" height="390" src="https://www.youtube.com/embed/fzARkDCJjwo" frameborder="0" allowfullscreen></iframe> <br />
 <br />
 <br />
-<img class="scrollLoading" href="http://img9.mmo.mmo4arab.com/newforum/upload//2012/04/10/1334052524100.png"> <br />
+<img class="scrollLoading" href="https://img9.mmo.mmo4arab.com/newforum/upload//2012/04/10/1334052524100.png"> <br />
 <br />
 The battle will continue in a relatively large area, as shown below. The dragon will be in the middle as shown.<br />
 <br />
@@ -179,7 +179,7 @@ Dragon will not cast Fire Tornado and Magic Eye after x5.25. <br />
 If both measures fail, staying at the frontal/back area of the dragon make it easier to avoid this attack, due to larger running area. Keep moving to avoid this skills (Pretty much like bull charging of stage 5 in SDN).<br />
 <br />
 A video showing the cast animation of Scarab Swarm: <br />
-<a href="http://v.youku.com/v_show/id_XMzM3Njk2NjA4.html" target="_blank">http://v.youku.com/v_show/id_XMzM3Njk2NjA4.html</a><br />
+<a href="https://v.youku.com/v_show/id_XMzM3Njk2NjA4.html" target="_blank">https://v.youku.com/v_show/id_XMzM3Njk2NjA4.html</a><br />
 <br />
 <b>Wooden Meteor:</b> Dark elemental. Induce screen<b> blurring effect.</b> Just keep moving and away from the wall to avoid. <br />
 

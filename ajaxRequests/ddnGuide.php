@@ -22,7 +22,7 @@
 <br>
 <span style="color:#666600"><font size="3"><b><u>Dragon Battle Phase 1 (Invincible - HP x20)</u></b></font></span><br>
 <br>
-<iframe title="YouTube video player" width="480" height="390" src="http://www.youtube.com/embed/D2i88oy-mFY" frameborder="0" allowfullscreen=""></iframe> <br>
+<iframe title="YouTube video player" width="480" height="390" src="https://www.youtube.com/embed/D2i88oy-mFY" frameborder="0" allowfullscreen=""></iframe> <br>
 <br>
 The dragon is invincible at the start of the battle and protected by 4 Eyes of Life at the North, South, East and West of the map. The party is required to deactivate these eyes to dispel dragon's invincible barrier.<br>
 <br>
@@ -37,7 +37,7 @@ The Eye of Life is immune to ice stacking. <br>
 <br>
 <b><span style="color:#669900">Laser Beams</span></b>: Shoot multiple laser beams in either one of the three directions randomly (See figure below, indicated by orange AOE). You can easily dodge the laser if you stand between these 3 directions (Purple circle) or out of the quarter circle AOE. <br>
 <br>
-<img class="scrollLoading" href="http://img6.mmo.mmo4arab.com/newforum/upload//2013/02/09/1360410363680.jpg" src="http://img6.mmo.mmo4arab.com/newforum/upload//2013/02/09/1360410363680.jpg" style="">  <br>
+<img class="scrollLoading" href="https://img6.mmo.mmo4arab.com/newforum/upload//2013/02/09/1360410363680.jpg" src="https://img6.mmo.mmo4arab.com/newforum/upload//2013/02/09/1360410363680.jpg" style="">  <br>
 <br>
 <b><span style="color:#669900">Trailing Explosion</span></b>: The eye glows purple twice and create a purple spot on the ground which trail a party member and explode 3 times. Float if hit. Keep moving to avoid taking damage.<br>
 <br>
@@ -69,7 +69,7 @@ Invincibility of the dragon will be dispelled upon breaking last Eye of Life and
 <br>
 <b><u>New Boss Skills in Phase 2</u></b><br>
 <br>
-<iframe title="YouTube video player" width="480" height="390" src="http://www.youtube.com/embed/feglG7OZfHo" frameborder="0" allowfullscreen=""></iframe> <br>
+<iframe title="YouTube video player" width="480" height="390" src="https://www.youtube.com/embed/feglG7OZfHo" frameborder="0" allowfullscreen=""></iframe> <br>
 <br>
 <b><span style="color:#669900">Flying Stomp</span></b>: Fly up and perform a stomp after 3 seconds. If you see the dragon flies up and the mini map shows that the dragon is still in the middle, expect flying stomp. Can be blocked with Shield Block. <br>
 <br>
@@ -95,7 +95,7 @@ The best spot for the party to stand is<b> dragon's left claw</b> (See orange ci
 <br>
 When you see dragon raises its glowing right claw, move right instead. You will end up outside of Flame Prison if done correctly. <br>
 <br>
-<img class="scrollLoading" href="http://img6.mmo.mmo4arab.com/newforum/upload//2013/07/03/1372870501352.jpg">  <br>
+<img class="scrollLoading" href="https://img6.mmo.mmo4arab.com/newforum/upload//2013/07/03/1372870501352.jpg">  <br>
 <br>
 <b><span style="color:#669900">Dive</span></b>: Fly up and dive linearly across the field. The dive direction is not the same as the direction of his head before it flies, it is approximately 30 degree anti-clockwise from its original facing direction. Anyway, move slightly away from its left claw will do. <br>
 <br>
@@ -117,21 +117,21 @@ If head (Arrowhead) is pointing directly on any Eye of Life: <b>Straight Case</b
 <br>
 2 persons are assigned to each eye (Marked by star). It is recommended that the ones with fast running speed (Either Acrobat or Warrior) are assigned to the tail position.<br>
 <br>
-<img class="scrollLoading" href="http://img6.mmo.mmo4arab.com/newforum/upload//2013/06/20/1371758451605.png">  <br>
+<img class="scrollLoading" href="https://img6.mmo.mmo4arab.com/newforum/upload//2013/06/20/1371758451605.png">  <br>
 If head is pointing somewhere in between any two Eyes of Life: <b>In-Between Case</b><br>
 <br>
-<img class="scrollLoading" href="http://img6.mmo.mmo4arab.com/newforum/upload//2013/06/20/1371758567344.png"> <br>
+<img class="scrollLoading" href="https://img6.mmo.mmo4arab.com/newforum/upload//2013/06/20/1371758567344.png"> <br>
 <br>
 Take note that the relative position of each party member is almost the same in both cases.<br>
 <br>
 In other words, each person is only required to check a 1/8 pie area<b> relative to the dragon's body (NOT absolute position on minimap)</b>.<br>
 <br>
-<img class="scrollLoading" href="http://img6.mmo.mmo4arab.com/newforum/upload//2013/06/20/1371758640718.png">  <br>
+<img class="scrollLoading" href="https://img6.mmo.mmo4arab.com/newforum/upload//2013/06/20/1371758640718.png">  <br>
 <br>
 <br>
 <font size="4"><b><u><span style="color:#666600">Dragon Battle Phase 3 (HP x15.2 - x11.2)</span></u></b></font><br>
 <br>
-<iframe title="YouTube video player" width="480" height="390" src="http://www.youtube.com/embed/LWqPQZfjYOg" frameborder="0" allowfullscreen=""></iframe> <br>
+<iframe title="YouTube video player" width="480" height="390" src="https://www.youtube.com/embed/LWqPQZfjYOg" frameborder="0" allowfullscreen=""></iframe> <br>
 <br>
 The battle is totally changed after HP x15.2. Dragon flies up after Eye of Life activation and submerges into the sand shortly after. A message stating that 'The dragon starts its assault' will appear on the screen.<br>
 <br>
@@ -159,7 +159,7 @@ After surviving the explosion, dragon's tail will emerge near the party. Deal as
 <br>
 <b><u><font size="4"><span style="color:#666600">Dragon Battle Phase 4 (HP x11.2 - x9.2)</span></font></u></b><br>
 <br>
-<iframe title="YouTube video player" width="480" height="390" src="http://www.youtube.com/embed/zHA_4QLiMdI" frameborder="0" allowfullscreen=""></iframe> <br>
+<iframe title="YouTube video player" width="480" height="390" src="https://www.youtube.com/embed/zHA_4QLiMdI" frameborder="0" allowfullscreen=""></iframe> <br>
 <br>
 Stop attacking as soon as dragon's HP down to x10, no use damaging further as the dragon will recover its HP back to x10 fully, god knows why! Head toward 6 o'clock and dragon will emerge shortly. Basic dragon skills from Phase 2 will still be casted, in addition of some new skills:<br>
 <br>
@@ -186,7 +186,7 @@ Dragon will go berserk after stomping down, doubling its attack.<br>
 <br>
 <b><u><font size="4"><span style="color:#666600">Dragon Battle Phase 5 (HP x6.2 - Dead)</span></font></u></b><br>
 <br>
-<iframe title="YouTube video player" width="480" height="390" src="http://www.youtube.com/embed/mv50LQR5ysc" frameborder="0" allowfullscreen=""></iframe> <br>
+<iframe title="YouTube video player" width="480" height="390" src="https://www.youtube.com/embed/mv50LQR5ysc" frameborder="0" allowfullscreen=""></iframe> <br>
 <br>
 <b><u>New Boss Skills at Phase 5</u></b><br>
 <b><span style="color:#669900">Rotating Sand Breath (CD &gt; 90sec)</span></b>: Dragon will start casting this at 6.2x. The CD of this skill might be delayed far beyond its CD.&nbsp;&nbsp;<br>
@@ -207,7 +207,7 @@ To evade this devastating skill, the party should move quickly clockwise to the 
 • Moving carefully in a zigzag manner to avoid the dark circle of the moving tornado. The tornado deals very little damage but it will knock you back. Guardian Force ensures that you will not get knocked down when the moving tornado hit you. However, if you have weapon sheathed, your weapon will be drawn out and that will waste some time. <br>
 •&nbsp;&nbsp;Do not move too fast and run into the AOE of the tornado in front. <br>
 •&nbsp;&nbsp;Invincibility (divine avatar, invincible potion etc) prevents the tornado from hitting you at all, but you can still be killed by the breath. <br>
-<img class="scrollLoading" href="http://img6.mmo.mmo4arab.com/newforum/upload//2013/06/20/1371760254577.png">                                                                         
+<img class="scrollLoading" href="https://img6.mmo.mmo4arab.com/newforum/upload//2013/06/20/1371760254577.png">                                                                         
                 </div>
             
                 
